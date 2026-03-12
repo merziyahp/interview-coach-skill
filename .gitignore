@@ -4,5 +4,4 @@
 # Personal coaching data — contains stories, scores, interview targets, and concerns
 coaching_state.md
 
-# Active skill file (created by copying SKILL.md during setup)
-CLAUDE.md
+# coaching_state.md stays ignored — contains personal interview data, stories, scores, targets
