@@ -51,7 +51,7 @@ Before drafting, identify:
 - Hook — connect the candidate's specific background to the company's specific problem
 - Do NOT open with "I am writing to express my interest in..."
 - Do NOT start with "I" as the first word
-- Do NOT use generic company compliments ("Blueprint is doing innovative work in...")
+- Do NOT use generic company compliments ("[Company] is doing innovative work in...")
 - Lead with a problem-to-proof connection: "The challenge of X is one I've solved before — at [Company], I [specific thing]."
 - Post-conversation variant: can reference something specific from the conversation ("Our conversation about X stuck with me...")
 
@@ -82,24 +82,24 @@ Before drafting, identify:
 
 **Style anchors (calibrated from candidate's own cover letters):**
 
-The Counterpart letter is the reference standard for this candidate's voice. It:
+The best-performing letter in the candidate's history is the reference standard. It:
 - Opens with *their* problem, not her excitement about their mission
-- Immediately connects her work to that problem (NovoPath HL7 → clinical data fragmentation)
-- Deploys one proof point with specifics: architecture type, scale (30+ clients), outcome (fewer rebuilds, higher reliability)
-- Ends with an earned insight that shows domain understanding: *"I know how fragmented clinical data can be, and how much leverage there is in getting the underlying infrastructure right"*
+- Immediately connects her work to that problem (e.g. prior integration work → fragmented clinical data)
+- Deploys one proof point with specifics: technology used, scale, outcome
+- Ends with an earned insight that shows domain understanding: *"I know how [X problem] works, and how much leverage there is in getting [Y] right"*
 - No generic closing
 
 **Rules extracted from her strongest writing:**
 1. **Open with the company's problem, not her feelings about their mission.** First sentence names the problem. Second sentence connects her proof to it.
-2. **One proof point, not a list.** Specific: technology used, scale, outcome. The Property Meld bullet approach can work for metrics-heavy intros but risks feeling like a résumé.
+2. **One proof point, not a list.** Specific: technology used, scale, outcome. A bullet-metrics approach can work for metrics-heavy intros but risks feeling like a résumé.
 3. **End with an earned insight.** "I know how X, and how much leverage there is in Y" — this construction works and is authentic to her voice.
 4. **Short paragraphs. No padding.** If a sentence doesn't add information, cut it.
-5. **Personal mission connection only when genuinely personal.** The Honor letter (family caregiving experience) and Khan Academy letter (child in public school) work because the connection is real. Generic mission statements ("I believe technology should improve lives") read as filler — skip them.
+5. **Personal mission connection only when genuinely personal.** Letters where the candidate had a real personal connection to the mission (family experience with the problem, personal use of the product) work. Generic mission statements ("I believe technology should improve lives") read as filler — skip them.
 6. **A project not on the resume can outperform a polished résumé summary.** If there's a relevant project that doesn't appear on the résumé (personal builds, consulting work with limited visibility), surface it — it creates curiosity that a résumé can't.
 
-**Anti-pattern examples from her own letters (avoid replicating):**
-- "I am excited to contribute to [Company]'s mission" — HopSkipDrive opener, generic
-- "If you're looking for a product leader who thrives in ambiguity..." — HopSkipDrive closing, could be anyone
+**Anti-patterns to avoid (from weaker letters):**
+- "I am excited to contribute to [Company]'s mission" — generic opener, could be anyone
+- "If you're looking for a product leader who thrives in ambiguity..." — generic closing, could be anyone
 - "I'd love to connect" — weak closing that defers rather than invites
 - Mission paragraphs that don't connect to a specific personal experience
 
@@ -115,7 +115,7 @@ Post-conversation is the most powerful version. Pull from debrief or analyze dat
 
 ### Anti-Patterns (Never Do This)
 
-- Opening with a compliment about the company ("I've long admired Blueprint's mission...")
+- Opening with a compliment about the company ("I've long admired [Company]'s mission...")
 - Starting with "I" as the first word
 - Listing responsibilities from the JD back at them
 - Using "I" to open consecutive sentences
