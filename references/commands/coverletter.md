@@ -81,13 +81,27 @@ Before drafting, identify:
 - If the storybank has a version of a story told in the candidate's own words, match that register
 
 **Style anchors (calibrated from candidate's own cover letters):**
-- Cut to the chase — no warm-up sentences, no easing in. The first sentence does real work.
-- Story-driven over claim-driven — show what was done, don't assert qualities
-- Direct and concrete — a specific project that doesn't appear on the resume can outperform a polished resume summary
-- Short paragraphs, no padding — if a sentence doesn't add information, cut it
-- If a previously successful cover letter exists in the company folder or resources, read it for register before drafting
 
-*Note: A real example cover letter that generated a callback should be added to resources when available — it will be used to calibrate these style instructions more precisely.*
+The Counterpart letter is the reference standard for this candidate's voice. It:
+- Opens with *their* problem, not her excitement about their mission
+- Immediately connects her work to that problem (NovoPath HL7 → clinical data fragmentation)
+- Deploys one proof point with specifics: architecture type, scale (30+ clients), outcome (fewer rebuilds, higher reliability)
+- Ends with an earned insight that shows domain understanding: *"I know how fragmented clinical data can be, and how much leverage there is in getting the underlying infrastructure right"*
+- No generic closing
+
+**Rules extracted from her strongest writing:**
+1. **Open with the company's problem, not her feelings about their mission.** First sentence names the problem. Second sentence connects her proof to it.
+2. **One proof point, not a list.** Specific: technology used, scale, outcome. The Property Meld bullet approach can work for metrics-heavy intros but risks feeling like a résumé.
+3. **End with an earned insight.** "I know how X, and how much leverage there is in Y" — this construction works and is authentic to her voice.
+4. **Short paragraphs. No padding.** If a sentence doesn't add information, cut it.
+5. **Personal mission connection only when genuinely personal.** The Honor letter (family caregiving experience) and Khan Academy letter (child in public school) work because the connection is real. Generic mission statements ("I believe technology should improve lives") read as filler — skip them.
+6. **A project not on the resume can outperform a polished résumé summary.** If there's a relevant project that doesn't appear on the résumé (personal builds, consulting work with limited visibility), surface it — it creates curiosity that a résumé can't.
+
+**Anti-pattern examples from her own letters (avoid replicating):**
+- "I am excited to contribute to [Company]'s mission" — HopSkipDrive opener, generic
+- "If you're looking for a product leader who thrives in ambiguity..." — HopSkipDrive closing, could be anyone
+- "I'd love to connect" — weak closing that defers rather than invites
+- Mission paragraphs that don't connect to a specific personal experience
 
 ### Application Stage Tone Calibration
 
