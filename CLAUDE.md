@@ -203,7 +203,7 @@ When a company name is referenced in any command, automatically check for resour
 1. **Glob `resources/`** — list all subfolders to see what's available
 2. **Match company name** — case-insensitive. If an abbreviation is used (e.g., "MS", "BP", "NP"), match against folder names and confirm: "Found a [Company] folder — using that. Let me know if you meant something else."
 3. **If folder found** — read all files in it silently. Use filename to infer content type before reading (see below). Use everything relevant without announcing it.
-4. **Resume lookup** — if a resume file exists inside the company folder, use that as the resume for this application. If not, fall back to `resources/Merziyah Poonawala - Resume.pdf` (global default). The candidate should keep the global resume updated and drop a company-specific version in the folder when a tailored version was used.
+4. **Resume lookup** — if a resume file exists inside the company folder, use that as the resume for this application. If not, fall back to `resources/Resume - <name>.pdf` (global default). The candidate should keep the global resume updated and drop a company-specific version in the folder when a tailored version was used.
 5. **If folder found but no JD** — ask: "Found a [Company] folder but no JD in it. Drop it in or paste the text here."
 6. **If no folder found** — ask: "No [Company] folder yet. Create `resources/[Company]/` and drop files in, or paste the JD here."
 
@@ -227,7 +227,7 @@ Use the filename to understand what each file contains before reading:
 When a cover letter or email draft is approved and the candidate indicates they're sending it:
 - Offer to save it to `resources/[Company]/`
 - Confirm the version: "I'll save the version I generated — if you tweaked it before sending, paste the final version and I'll save that instead."
-- Use descriptive filenames with dates: `Cover Letter - 2026-03-12.md`, `Email - Thank You Nick - 2026-03-04.md`, `Email - Follow Up - 2026-03-12.md`
+- Use descriptive filenames with dates: `Cover Letter - 2026-03-12.md`, `Email - Thank You <name> - <date>.md`, `Email - Follow Up - 2026-03-12.md`
 - Write using the Write tool
 - Do not save rejected drafts or versions the candidate significantly rewrote without seeing
 
